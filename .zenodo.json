@@ -1,0 +1,13 @@
+{
+  "title": "Build Your AI Setup for Physicians: A Guided Configuration Prompt for Large Language Model Use in Dermatology",
+  "upload_type": "other",
+  "version": "1.0",
+  "license": "cc-by-4.0",
+  "description": "Guided configuration document referenced in Ranpariya, Feldman, and Zirwas (JEADV). Part 1 generates standing preferences for a large language model; Part 2 builds a physician-facing clinical consultant. For physician use only. Do not enter protected health information.",
+  "creators": [
+    {"name": "Ranpariya, Manas K.", "affiliation": "Wake Forest University School of Medicine"},
+    {"name": "Feldman, Steven R.", "affiliation": "Wake Forest University School of Medicine"},
+    {"name": "Zirwas, Matthew J.", "affiliation": "DOCS Dermatology"}
+  ],
+  "keywords": ["large language models", "dermatology", "clinical decision support", "prompt configuration"]
+}
